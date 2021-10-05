@@ -4,4 +4,6 @@ Recipes List
 2.Burgar
 3.Noodles
 
+4.Briyani
+5.Fried Rice
 Thank you:)
